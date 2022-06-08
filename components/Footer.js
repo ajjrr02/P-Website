@@ -10,9 +10,9 @@ export default function Footer() {
       </div>
       <div className='text-center text-sm font-normal text-custom-light-shuttle-gray dark:text-custom-dark-gull-gray'>
         Designed & Built by {" "}
-        <a href="https://anassjardane.netlify.app"><span className='text-custom-light-dodger-blue dark:text-custom-dark-3-days-ecchymose'>
+        <span className='text-custom-light-dodger-blue dark:text-custom-dark-3-days-ecchymose'>
           AnaSs Jardane
-        </span></a>  
+        </span>
         
       </div>
     </footer>
